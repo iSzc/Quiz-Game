@@ -1,0 +1,384 @@
+{
+  "questions": [
+    {
+      "question": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+      "options": ["12 Minutos", "1 Dia", "12 Horas", "8 Minutos"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "Qual a velocidade da luz?",
+      "options": [
+        "299 792 458 (m/s)",
+        "150 000 000 (m/s)",
+        "199 792 458 (m/s)",
+        "30 000 000 (m/s)"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Qual o maior animal terrestre?",
+      "options": ["Baleia Azul", "Dinossauro", "Elefante africano", "Girafa"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Qual o tema do famoso discurso 'Eu Tenho um Sonho, de Martin Luther King'",
+      "options": [
+        "Igualdade das raças",
+        "Justiça para os menos favorecidos",
+        "Prêmio Nobel da Paz",
+        "Luta contra o Apartheid"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Quem foi o primeiro homem a pisar na Lua? Em que ano aconteceu?",
+      "options": [
+        "Yuri Gagarin, em 1961",
+        "Buzz Aldrin, em 1969",
+        "Neil Armstrong, em 1965",
+        "Neil Armstrong, em 1969"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "As pessoas de qual tipo sanguíneo são consideradas doadores universais?",
+      "options": ["Tipo A", "Tipo B", "Tipo O", "Tipo AB"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Qual o metal cujo símbolo químico é o Au?",
+      "options": ["Cobre", "Prata", "Mercúrio", "Ouro"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "Quem inventou a lâmpada?",
+      "options": [
+        "Thomas Hobbes",
+        "Steve Jobs",
+        "Thomas Edison",
+        "Isaac Newton"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "De onde é a invenção do chuveiro elétrico?",
+      "options": ["França", "Brasil", "Italia", "Inglaterra"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Júpiter e Plutão são os correlatos romanos de quais deuses gregos?",
+      "options": [
+        "Ares e Hermes",
+        "Zeus e Ares",
+        "Zeus e Hades",
+        "Cronos e Apolo"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "De quem é a famosa frase “Penso, logo existo”?",
+      "options": ["Platão", "Galileu Galilei", "Descartes", "Sócrates"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Quais o menor e o maior país do mundo?",
+      "options": [
+        "Vaticano e Rússia",
+        "Nauru e China",
+        "Mônaco e Canadá",
+        "Malta e Russia"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+      "options": [
+        "Jânio Quadros",
+        "Jacinto Anjos",
+        "Getúlio Vargas",
+        "João Goulart"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+      "options": [
+        "O Senhor dos Anéis",
+        "Dom Quixote",
+        "O Pequeno Príncipe",
+        "Um Conto de Duas Cidades"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Quantas casas decimais tem o número pi",
+      "options": ["Duas", "Centenas", "Infinitas", "Vinte"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+      "options": ["113", "109", "108", "118"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+      "options": [
+        "Japão e Serra Leoa",
+        "Austrália e Afeganistão",
+        "Brasil e Congo",
+        "Itália e Chade"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Qual a montanha mais alta do Brasil?",
+      "options": [
+        "Pico da Neblina",
+        "Pico Paraná",
+        "Monte Roraima",
+        "Pico da Bandeira"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Em qual local da Ásia o português é língua oficial?",
+      "options": ["Filipinas", "Moçambique", "Macau", "Portugal"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Quem é o autor de “O Príncipe”?",
+      "options": [
+        "Maquiavel",
+        "Antoine de Saint-Exupéry",
+        "Thomas Hobbes",
+        "Rousseau"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Como é a conjugação do verbo caber na 1.ª pessoa do singular do presente do indicativo?",
+      "options": ["Eu caibo", "Ele cabe", "Que eu caiba", "Eu cabo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Qual era o nome de Aleijadinho?",
+      "options": [
+        "Alex Francisco Lisboa",
+        "Manuel Francisco Lisboa",
+        "Antônio Francisco Lisboa",
+        "Alexandrino Francisco Lisboa"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Que líder mundial ficou conhecida como “Dama de Ferro”?",
+      "options": [
+        "Dilma Rousseff",
+        "Margaret Thatcher",
+        "Angela Merkel",
+        "Hillary Clinton"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Quais os nomes dos três Reis Magos?",
+      "options": [
+        "Belchior, Gaspar e Baltazar",
+        "Belchior, Gaspar e Nataniel",
+        "Melchior, Noé e Galileu",
+        "Gaspar, Nicolau e Natanael"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Qual a religião monoteísta que conta com o maior número de adeptos no mundo?",
+      "options": ["Judaísmo", "Zoroastrismo", "Cristianismo", "Hinduísmo"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Quais são os cromossomos que determinam o sexo masculino?",
+      "options": ["Os V", "Os X", "Os Y", "Os W"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Quem amamentou os gêmeos Rômulo e Remo?",
+      "options": ["Uma cabra", "Uma vaca", "Uma ovelha", "Uma loba"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "Com que dois países faz fronteira o Equador?",
+      "options": [
+        "Colômbia e Peru",
+        "Brasil e Colômbia",
+        "Colômbia e Venezuela",
+        "Equador e Brasil"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Que animal gruguleja?",
+      "options": ["Pavão", "Peru", "Papagaio", "Garça"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Qual é o maior arquipélago da Terra?",
+      "options": ["Filipinas", "Indonésia", "Bahamas", "Maldivas"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Que substância é absorvida pelas plantas e expirada por todos os seres vivos?",
+      "options": [
+        "Oxigênio",
+        "Nitrogênio",
+        "Nitrato de sódio",
+        "Dióxido de carbono"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "Em que século o continente europeu foi devastado pela peste bubônica?",
+      "options": [
+        "No século XIV",
+        "No século XIII",
+        "No século XII",
+        "No século X"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Quem viveu, segundo a Bíblia, 969 anos?",
+      "options": ["Jesus Cristo", "Noé", "Matusalém", "Abel"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Quem pintou o teto da capela sistina?",
+      "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Sandro Botticelli",
+        "Donatello"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Em que país nasceu Clarice Lispector?",
+      "options": ["Portugal", "Rússia", "Brasil", "Ucrânia"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "Complete o provérbio “A cavalo dado …”",
+      "options": [
+        "Sai caro",
+        "Tem medo de água fria",
+        "Não se olha o rabo",
+        "Não se olha os dentes"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "Quais dos órgãos abaixo pertencem ao sistema respiratório?",
+      "options": [
+        "Laringe e traqueia",
+        "Pulmões e faringe",
+        "Esôfago e brônquios",
+        "Tireoide e hipófise"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "O que é filantropo?",
+      "options": [
+        "Pessoa que tem excesso de confiança",
+        "Pessoa egoísta",
+        "Pessoa que pratica a caridade",
+        "Poema de quatro versos"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Como morreu Saddam Hussein?",
+      "options": [
+        "Vítima de câncer",
+        "Suicídio",
+        "Ataque cardíaco",
+        "Enforcado"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "Em que país se localizava Auschwitz, o maior campo de concentração nazista?",
+      "options": ["Alemanha", "Polônia", "Estados Unidos", "Áustria"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Em 2018 foi o centenário da morte de que importante poeta brasileiro?",
+      "options": [
+        "Monteiro Lobato",
+        "Machado de Assis",
+        "Aluísio de Azevedo",
+        "Olavo Bilac"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "question": "Quais as maiores pandemias da história?",
+      "options": [
+        "Gripe espanhola e câncer",
+        "Varíola e hipertensão",
+        "Peste negra e covid-19",
+        "Asma e Gripe espanhola"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Quem é a primeira santa nascida no Brasil, canonizada em 2019?",
+      "options": [
+        "Santa Dulce dos Pobres",
+        "Nossa Senhora Aparecida",
+        "Madre Teresa de Calcutá",
+        "Rainha Santa Isabel"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Qual fruta envenenada comeu a Branca de Neve?",
+      "options": ["Maçã", "Abacaxi", "Manga", "Romã"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Qual o maior planeta do sistema solar?",
+      "options": ["Júpiter", "Netuno", "Saturno", "Terra"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Em que período da pré-história o fogo foi descoberto?",
+      "options": [
+        "Idade Média",
+        "Paleolítico",
+        "No século XX",
+        "Período da Pedra Polida"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Quantos ossos temos no nosso corpo?",
+      "options": ["206", "203", "205", "207"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Quantas estrelas tem a bandeira do Brasil?",
+      "options": ["27", "28", "26", "25"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Que animal põe o maior ovo?",
+      "options": ["Águia", "Avestruz", "Tartaruga-gigante", "Sucuri"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Quantas teclas tem um piano?",
+      "options": ["62", "88", "73", "82"],
+      "correctAnswerIndex": 1
+    }
+  ]
+}
