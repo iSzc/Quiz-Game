@@ -47,18 +47,29 @@
 }
 
 @media (max-width: 600px) {
+  .allContent {
+    min-width: 100%;
+  }
+
   .questionDiv {
     width: 95%;
-    padding: 20px;
   }
   .buttonDiv {
-    width: 95%;
-    padding: 20px;
+    width: 80%;
   }
 }
 
 @media (max-width: 375px) {
+  .allContent {
+    min-width: 100%;
+  }
+
   .questionDiv {
     font-size: 1.5rem;
+    min-width: 80vw;
+  }
+
+  .buttonDiv {
+    width: 80%;
   }
 }

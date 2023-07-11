@@ -37,10 +37,10 @@
   .a {
     justify-content: center;
     align-items: center;
+    text-align: center;
   }
   .a:hover {
     color: #ffffff;
-    text-align: center;
   }
   .btn:hover {
     background-color: rgba(138, 43, 226, 0.8);
