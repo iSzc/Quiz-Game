@@ -48,11 +48,11 @@
 
 @media (max-width: 600px) {
   .questionDiv {
-    width: 90%;
+    width: 95%;
     padding: 20px;
   }
   .buttonDiv {
-    width: 90%;
+    width: 95%;
     padding: 20px;
   }
 }
